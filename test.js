@@ -24,45 +24,45 @@
 
 // // addition subtraction division multiplication
 
-// let a=7;
-// let b=8;
-// console.log(a==b)
+let a=7;
+let b=8;
+console.log(a==b)
 // // assignment
 
-// let s = [ 1, 2, 3, 4 ];
-// let o = [ 1, 2, 3, 4 ];
-// console.log(s<=o)
+let s = [ 1, 2, 3, 4 ];
+let o = [ 1, 2, 3, 4 ];
+console.log(s<=o)
 // // comparison operator
 
-// let name="surya"
-// let name2="dotzz"
-// console.log(name+name2)
+let name="surya"
+let name2="dotzz"
+console.log(name+name2)
 
-// add
+add
 
-// a="hello"
-// v="world"
+a="hello"
+v="world"
 
-// console.log(a + " " + v)
-// add between space
+console.log(a + " " + v)
+add between space
 
-// let a =10
-// {
-//     let a=60;
-//     console.log(a)
-// }
-// console.log(a)
+let a =10
+{
+    let a=60;
+    console.log(a)
+}
+console.log(a)
 
-// let
+let
 
-// const a = 20
-// {
-//     const a = 30
-//     a=20
-//     console.log(a)
-// }
-// console.log(a)
-// error
+const a = 20
+{
+    const a = 30
+    a=20
+    console.log(a)
+}
+console.log(a)
+error
 
 var c = 20;
 {
